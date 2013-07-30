@@ -92,6 +92,11 @@ span.debt img{
   top: 0.2em;
 }
 
+div#splash {
+  color: red;
+}
+
+/*
 @-webkit-keyframes pulse {
   0% { color: black; }
  40% { color: red; }
@@ -104,3 +109,4 @@ div#splash {
   -webkit-animation-duration: 1s;
 	-webkit-animation-iteration-count: infinite;
 }
+*/
